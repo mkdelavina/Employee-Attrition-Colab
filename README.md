@@ -1,8 +1,12 @@
 # Employee Attrition Analysis
 
 Uncovering the factors that lead to employee attrition. <br>
-Data source: https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
-Factors chosen have the highest positive correlation and lowest negative correlation versus attrition.
+Factors chosen have the highest positive correlation and lowest negative correlation versus attrition. <br>
+Data source: https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition <br>
+link to my notebook: https://colab.research.google.com/drive/16oE5fwzMue9EJiDuTukfIDVMZoOiIiQB?usp=sharing
+
+
+
  
 ## Relevant Graphs
 ### Hypothesis 1: Overtime Work
